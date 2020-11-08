@@ -1,2 +1,2 @@
-# wash_u_bootcamp
-Completed projects during the course of the bootcamp.
+# wash_u_boot_camp
+Completed projects during the course of the Washington University Cybersecurity Bootcamp.
